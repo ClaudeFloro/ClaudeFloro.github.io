@@ -1,3 +1,11 @@
+# PERSONAL INFORMATION
+## UNIVERSITY OF BATH, MASTER OF SCIENCE IN COMPUTER SCIENCE
+## Contact address
+### Room B103a, IQ Twerton Mill, Lower Biristol Road, Bath, BA2 1EZ, United Kingdom
+## Mobile
+### +44-07536967367
+## E-mail
+### jy988@bath.ac.uk
 # EDUCATION
 ## Yunnan University 09.2017 – 06.2021 Kunming, Zhejiang
 ### BACHELOR OF SCIENCE IN MATHEMATICS AND APPLIED MATHEMATICS
