@@ -35,6 +35,46 @@
 # PATENTS
 ## Method for detecting face scrambling codes of special personnel based on video intelligent analysis
 ### Click <a href="https://worldwide.espacenet.com/patent/search/family/071197931/publication/CN111355924A?q=CN201911130285">[CN201911130285]</a> to view the detail.
+## Monitoring method for illegal vehicle parking in resident
+### Click <a href="https://worldwide.espacenet.com/patent/search/family/068325499/publication/CN110400464A?q=CN201910635197">[CN201910635197]</a> to view the detail.
+## Method for improving video POI low-loss coding efficiency through eye movement monitoring
+### Click <a href="https://worldwide.espacenet.com/patent/search/family/068325499/publication/CN110400464A?q=CN201910635543">[CN201910635543]</a> to view the detail.
+## Method for error code retransmission control in TCP video transmission
+### Click <a href="https://worldwide.espacenet.com/patent/search/family/068325499/publication/CN110400464A?q=CN201910614779">[CN201910614779]</a> to view the detail.
+## OSD superposition method based on video detection
+### Click <a href="https://worldwide.espacenet.com/patent/search/family/068325499/publication/CN110400464A?q=CN201910852600">[CN201910852600]</a> to view the detail.
+# INTERNSHIPS & PROJECTDS
+## Hangzhou Yisheng Information Technology Co., Ltd. 05.2019 - 07.2019
+## ENGINEERING INTERNSHIP: 
+## Monitoring method for illegal vehicle parking in resident
+### APPLIED FOR A PATENT IN CHINA: CN201910635197
+### Reviewed the most similar technical solution in identification of illegal parking sign: Traffic police camera for license plate recognition. Proposed and discussed the existing technology to catch illegal parking in the neighborhood: : front and rear car blocking and obstacle blocking.
+### Proposed to link the vehicle body information in the vehicle information of the DMV to reverse feature extraction and correction to enhance the recognition function of vehicles. 
+## Hangzhou Yisheng Information Technology Co., Ltd. 07.2019 - 09.2019
+## ENGINEERING INTERNSHIP: 
+## Method for Detecting Face Scrambling Codes of Special Personnel Based on Video Intelligent Analysis Panorama
+### APPLIED FOR A PATENT IN CHINA: CN201911130285
+### Reviewed the state-of-the-art works in face scrambling codes: multiple instance learning and feature vector extraction. Validated the performance in the conference broadcast scenario. 
+### Tested the application of the method in multiple scenarios and recorded the efficiency and accuracy.
+## Yunnan University 02.2021 - 06.2021
+## BACHELOR’S THESIS: 
+## Charging Station Location Problem Based on Auction
+### Designed two credible VCG auction mechanisms based on the location of charging stations: CPd-VCG and CP-C-VCG. 
+### Modeled user utility quantification and site selection, and obtained two relatively fair auction schemes and redistribution rules for all participating users
+## Hangzhou Jointfounder Information Technology Co., Ltd. 03.2021 – 06.2021
+## RESEARCH INTERNSHIP: 
+## Housing Valuation Model & Business Owner Credit Rating Model
+### Carried out data cleaning on the second-hand housing transaction information of all "school district housing" in Hangzhou.
+### Initially set up a housing valuation model in Hangzhou and drew a Three-Dimensional reference map for future products.
+### Improved the business owner's credit score model and returned the floating parameters using the housing transaction and rental information within 5 years. 
+# HONORS
+### 10.2018 Third-Class, China National Mathematics Competition for College Students in Provinces
+### 06.2019 Bronze Prize, "Internet +" College Students Innovation and Entrepreneurship Competition
+### 09.2019 Second-Class, The China Undergraduate Mathematical Contest in Modeling (CUMCM) in Nation
+### 11.2019 Second-Class, The Asia and Pacific Mathematical Contest in Modeling (APMCM)
+### 09.2020 Second-Class, The China Undergraduate Mathematical Contest in Modeling (CUMCM) in Nation
+
+
 
 
 
