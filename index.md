@@ -34,7 +34,7 @@
 ### (CEFR bands)
 # PATENTS
 ## Method for detecting face scrambling codes of special personnel based on video intelligent analysis
-### Click <a href="/https://worldwide.espacenet.com/patent/search/family/071197931/publication/CN111355924A?q=CN201911130285">[CN201911130285]</a> to view the detail.
+### Click <a href="https://worldwide.espacenet.com/patent/search/family/071197931/publication/CN111355924A?q=CN201911130285">[CN201911130285]</a> to view the detail.
 
 
 
