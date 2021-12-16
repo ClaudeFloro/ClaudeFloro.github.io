@@ -18,12 +18,12 @@
 # PUBLICATIONS
 ## Ye, J., Chan, L., Yan, J., 2018. Research on Fundamentals of Data Mining Technology of Public Security Information. Security & Automation. no.233. page 30
 ## Yunnan University, 03.2018
-### Lead author. This paper was submitted to participate in the fifth "Internet +" College Students Innovation and entrepreneurship Competition and won the bronze prize.
+### First author. This paper was submitted to participate in the 5th "Internet +" College Students Innovation and Entrepreneurship Competition and won the bronze prize and provided a theoretical reference for the establishment of the Space-time analysis platform of Wenzhou Police Station, Zhejiang Province.
 ### Proposed the theoretical foundation of the police data mining knowledge base. 
-### Put forward a ternary theoretical model based on individual behavior trajectory and relationship, which provided a theoretical reference for the establishment of the Space-time analysis platform of Wenzhou Public Security Bureau, Zhejiang Province.  
+### Established the Ternary-Theory model based on the target action trajectory and relationship network. 
 ## Ye, J., Chan, L., Zuo, Z., 2020. The Data Consanguinity of the Intelligent Analysis from Public Safety’s View. China Security & Protection. no.173. page 105
 ## Yunnan University, 03.2020
-### Lead author. This paper provides a theoretical basis for the project of "Application Guide for Intelligent Construction of Public Security Video and Image" of Science and Technology Information Bureau of the Ministry of Public Security. 
+### First author. This paper provided a theoretical reference for the project of "Application Guide for Intelligent Construction of Public Security Video and Image" of Science and Technology Information Bureau of the Ministry of Public Security. 
 ### Proposed to use the traceability of data blood to realize the traceability and positioning of police big data.
 ### Provided a reference to the level selection of data lineage analysis for metadata management. 
 # INTERESTS
@@ -32,14 +32,9 @@
 ## Programming
 ### main: C/C++, Python, Java 
 ### used in the past: C#, MATLAB
-## English
-### Completed the summer pre-sessional course at the University of Bath 
-### Overall: B2+
-### Listening: C1   
-### Reading: C1
-### Writing: B2      
-### Speaking: B2
-### (CEFR bands)
+## Tools
+### main: Unity3D, SQL Server, Pytorch, Tensorflow
+### used in the past: IBM SPSS
 # PATENTS
 ## Method for detecting face scrambling codes of special personnel based on video intelligent analysis
 ### Click <a href="https://worldwide.espacenet.com/patent/search/family/071197931/publication/CN111355924A?q=CN201911130285">[CN201911130285]</a> to view the detail.
@@ -54,18 +49,17 @@
 # INTERNSHIPS & PROJECTDS
 ## Hangzhou Yisheng Information Technology Co., Ltd. 05.2019 - 07.2019
 ## ENGINEERING INTERNSHIP: 
-## Monitoring method for illegal vehicle parking in resident
-### APPLIED FOR A PATENT IN CHINA: CN201910635197
-### Reviewed the most similar technical solution in identification of illegal parking sign: Traffic police camera for license plate recognition. Proposed and discussed the existing technology to catch illegal parking in the neighborhood: : front and rear car blocking and obstacle blocking.
-### Proposed to link the vehicle body information in the vehicle information of the DMV to reverse feature extraction and correction to enhance the recognition function of vehicles. 
+## Technology Patent Mining and Protection
+### Sorted out a complete technology stack for the productization of artificial intelligence technology. 
+### Patent layout and planning on the innovation points of face recognition technology and long-tail algorithm fast training technology. 
+### Participated in the writing of 9 invention patents, 6 of which have obtained Chinese patent authorizations. 
 ## Hangzhou Yisheng Information Technology Co., Ltd. 07.2019 - 09.2019
 ## ENGINEERING INTERNSHIP: 
-## Method for Detecting Face Scrambling Codes of Special Personnel Based on Video Intelligent Analysis Panorama
-### APPLIED FOR A PATENT IN CHINA: CN201911130285
-### Reviewed the state-of-the-art works in face scrambling codes: multiple instance learning and feature vector extraction. Validated the performance in the conference broadcast scenario. 
-### Tested the application of the method in multiple scenarios and recorded the efficiency and accuracy.
-## Yunnan University 02.2021 - 06.2021
-## BACHELOR’S THESIS: 
+## Network Security Short Video Data Mining
+### Used ETL tools to manually collect original videos and metadata from short video websites. Used the view markup tool to manually mark people and cars in the view. 
+### Participated in the test to verify the anti-beauty parsing algorithm of face/body. 
+### Invention patent [CN201911208381]: Method for Supplementing Public Security Investigation Data Set Based on Selfie Buffeting View. 
+## BACHELOR THESIS: 
 ## Charging Station Location Problem Based on Auction
 ### Designed two credible VCG auction mechanisms based on the location of charging stations: CPd-VCG and CP-C-VCG. 
 ### Modeled user utility quantification and site selection, and obtained two relatively fair auction schemes and redistribution rules for all participating users
